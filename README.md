@@ -5,3 +5,8 @@
 💬 Ask me about my personal website
 📫 How to reach me: discord: turtletiny
 
+Project Ideas:
+- Equaliser APO / Peace GUI improvement
+- Anki UI improvement
+- Light Music Player
+- 
