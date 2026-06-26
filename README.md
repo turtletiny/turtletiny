@@ -1,2 +1,6 @@
 Recreational programming :D  
-learning 
+learning:
+- java (school)
+- c++
+- nvim
+- 
