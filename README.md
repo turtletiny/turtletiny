@@ -4,3 +4,7 @@ learning:
 - c++
 - nvim
 - linux config
+
+i would like to eventually:
+- contribute to open source neovim plugins
+- 
