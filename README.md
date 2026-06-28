@@ -7,4 +7,4 @@ learning:
 
 i would like to eventually:
 - contribute to open source neovim plugins
-- 
+
