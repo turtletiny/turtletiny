@@ -3,4 +3,4 @@ learning:
 - java (school)
 - c++
 - nvim
-- 
+- linux config
