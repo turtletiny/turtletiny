@@ -1,4 +1,4 @@
-Aspriring Systems / Low-level developer
+Aspriring Systems Developer
 
  
  ## Learning Languages:
