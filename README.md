@@ -11,3 +11,9 @@ I like programming!
 - DSA  [My leetcode profile](https://leetcode.com/u/turtletiny/)
 - Configuring and learning linux
 
+
+## Future Projects
+- X11 Window Manager from scratch
+- malloc from scratch
+- flashcard TUI app to replace anki
+- personal cs progression tracker
